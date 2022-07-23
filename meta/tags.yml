@@ -11,3 +11,7 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: Topbusinesseslist
+    name: Top businesses list
+  - slug: LocalBusiness
+    name: Local Business
