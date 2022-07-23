@@ -1,7 +1,7 @@
 {
   "base_url": "https://alphamarketing.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Alpha Marketing Blog",
+  "site_description": "Alpha Marketing Blog | Built in Next.js & Netlify",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -11,7 +11,8 @@
     },
     {
       "keyword": "React"
-    }
+    },
+    "Alpha Marketing"
   ],
   "posts_per_page": 5,
   "twitter_account": "@not-available",
