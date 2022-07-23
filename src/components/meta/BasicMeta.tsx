@@ -33,6 +33,7 @@ export default function BasicMeta({
         }
       />
       {author ? <meta name="author" content={author} /> : null}
+      <meta name="google-site-verification" content="tZqt7Sff7jc-TV1MAIWqUyyocBioQa6AovSv1GgIEkY" />
       <link rel="canonical" href={config.base_url + url} />
     </Head>
   );
