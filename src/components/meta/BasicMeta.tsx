@@ -17,7 +17,6 @@ export default function BasicMeta({
 }: Props) {
   return (
     <Head>
-      <meta name="google-site-verification" content="tZqt7Sff7jc-TV1MAIWqUyyocBioQa6AovSv1GgIEkY" />
       <title>
         {title ? [title, config.site_title].join(" | ") : config.site_title}
       </title>
