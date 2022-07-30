@@ -5,3 +5,5 @@ Disallow: /accounts
 # Allow all crawlers
 User-agent: *
 Allow: /
+
+Sitemap: https://alphamarketing.netlify.app/sitemap.xml
