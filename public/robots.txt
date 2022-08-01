@@ -1,9 +1,6 @@
-# Block all crawlers for /accounts
-User-agent: *
-Disallow: /accounts
-
 # Allow all crawlers
 User-agent: *
-Allow: /
+Disallow: /admin
+Allow: /*
 
 Sitemap: https://alphamarketing.netlify.app/sitemap.xml
