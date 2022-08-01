@@ -15,3 +15,5 @@ tags:
     name: top-businesses-list
   - slug: local-business
     name: local-business
+  - name: alphamarketing
+    slug: alphamarketing
