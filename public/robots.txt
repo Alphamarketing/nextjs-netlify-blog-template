@@ -1,6 +1,6 @@
 # Allow all crawlers
 User-agent: *
-Disallow: /admin
 Allow: /*
+Disallow: /admin
 
 Sitemap: https://alphamarketing.netlify.app/sitemap.xml
