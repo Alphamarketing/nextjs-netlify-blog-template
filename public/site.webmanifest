@@ -1,6 +1,6 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "Alpha Marketing Blog",
+  "name": "Alpha Marketing Blog | Built in Next.js & Netlify",
   "icons": [
     {
       "src": "icon.png",
